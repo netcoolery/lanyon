@@ -3,6 +3,9 @@
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
 
+# Trying to fix the complaint from GitHub
+remote_theme:        poole/lanyon
+
 # Setup
 title:               Lanyon
 tagline:             'A Jekyll theme'
